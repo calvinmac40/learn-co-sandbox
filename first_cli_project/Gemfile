@@ -1,4 +1,6 @@
 source "https://rubygems.org"
 
+require "pry"
+
 # Specify your gem's dependencies in first_cli_project.gemspec
 gemspec
