@@ -1,3 +1,0 @@
-class Cli 
-  
-end
